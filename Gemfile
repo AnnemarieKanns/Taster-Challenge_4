@@ -6,7 +6,7 @@ gem 'sinatra'
 # gem 'dm-postgres-adapter'
 # gem 'rack-flash3'
 # gem 'rest-client'
-# gem 'thin'
+gem 'thin'
 
 group :development, :test do
 	gem 'capybara'
