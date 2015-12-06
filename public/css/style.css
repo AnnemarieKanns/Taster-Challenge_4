@@ -49,6 +49,13 @@ article {
  	float: right;
  }
 
+.col {
+  width: 20.65vw;
+  padding: 3vw;
+  background: gray;
+}
+
+
  footer {
 	width: 100vw;
  	text-align: center;
